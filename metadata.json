@@ -1,0 +1,8 @@
+{
+  "name": "غيم | Ghaim",
+  "description": "متجر عطور فاخرة بتجربة تسوق راقية وهوية داكنة مذهبة، يضم أندر تركيبات العود، العنبر الملكي، والمسك الفاخر مع سلة مشتريات تفاعلية ووسائل دفع متعددة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
